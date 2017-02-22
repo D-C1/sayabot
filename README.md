@@ -15,3 +15,5 @@ The benchmarked log file of the above mentioned planners and using trac_IK kinem
 visualization of the logs collected
 ## Motion planning & moveIt.pdf
 Research done on planners available in moveit! and a brief detailing of planners available in OMPL.
+## demo_SOLVER.mp4
+a short video of manipulator planning using different kinematic solvers
